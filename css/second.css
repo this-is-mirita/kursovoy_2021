@@ -1,0 +1,367 @@
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+
+div {
+    font-family: 'Neo Sans Pro';
+    font-weight: bold;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #000000;
+    background: #000000;
+    background: #000000;
+
+}
+
+body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: rgb(0, 0, 0);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.vkandinst {
+    display: flex;
+    align-items: center;
+    margin-left: 5rem;
+}
+
+.inn {
+    margin-left: 1rem;
+}
+
+.vnnn {
+    margin-left: 4rem;
+}
+
+.bloktxt {
+    padding-top: 2rem;
+    padding-left: 21rem;
+}
+
+.mbknop {
+    display: flex;
+}
+
+.sgdfds {
+    padding-top: 2rem;
+}
+
+.newlogo {
+    display: flex;
+    background-color: #131313;
+}
+
+.mvprprp {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.nedotxxt {
+    text-decoration: none;
+    font-size: 14px;
+    display: flex;
+    color: #EAEAEA;
+
+}
+
+.voznikli {
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.voznikli1 {
+    color: #FFED00;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+}
+
+.mainlg {
+    background: #131313;
+    display: flex;
+    align-items: center;
+}
+
+.navbar {
+    background: #0D0D0D;
+}
+
+.navbar-nav {
+    float: none;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+}
+
+/* что это значит узнать */
+.navbar-nav>li {
+    display: inline-block;
+    float: none;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 3rem;
+}
+
+
+.viveski {
+    background: #232323;
+}
+
+.text {
+    display: flex;
+}
+
+.lekv {
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+    align-content: flex-start;
+}
+
+.fsdfds {
+    background: #232323;
+}
+
+.vesslide {
+    background: #0D0D0D;
+}
+
+.dlyabg {
+    background: #0D0D0D;
+}
+
+.mnogotexta {
+    color: #EAEAEA;
+    margin-bottom: 4rem;
+    width: 100%;
+}
+
+.yellow {
+    color: #bdb222;
+}
+
+.viveskainfo {
+    background-color: #000000;
+    color: #EAEAEA;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.praice {
+    margin-left: 0rem;
+    margin-bottom: 3rem;
+    display: flex;
+}
+
+.pricelist {
+    background-color: #000000;
+    display: flex;
+}
+
+.threcolonki {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+
+
+
+.formmavvoda {
+    display: flex;
+    background: #232323;
+    justify-content: center;
+    padding-top: 0%;
+}
+
+.conteiner-bg {
+    background: #232323;
+}
+
+.button1 {
+    border: none;
+    outline: none;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    padding: 7px 65px;
+    border-radius: 5px;
+    background: #FFED00;
+    text-decoration: none;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #1F1F1F;
+    margin-top: 1.98rem;
+    width: 100%;
+}
+
+
+.osnova {
+    color: #EAEAEA;
+    align-items: center;
+}
+
+
+
+
+
+.container-bg {
+    background-color: #000000;
+}
+
+.textonpcit {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
+.lastelement {
+    background-color: #000000;
+}
+
+.btn-warning {
+    margin-left: 2rem;
+}
+
+.bslvl {
+    text-decoration: none;
+    color: #EAEAEA;
+    display: flex;
+}
+
+.bslvl1 {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.futrrr {
+    margin-top: 5rem;
+    display: flex;
+}
+
+.textonpcit {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
+.karta {
+    margin-top: 4rem;
+}
+
+.mtxt {
+    display: flex;
+    text-decoration: none;
+}
+
+.thedd {
+    background: #0D0D0D;
+}
+
+.table-responsive-xxl {
+    overflow-x: clip;
+    -webkit-overflow-scrolling: touch;
+}
+
+.dasdasd {
+    background: #000000;
+    display: flex;
+}
+
+.fasdda {
+    background: #000000;
+}
+
+@media screen and (max-width: 600px) {
+    #mnogotexta {
+        column-width: 100%;
+        border: 0;
+        overflow-x: clip;
+        display: block;
+        text-align: center;
+        content: attr(data-label);
+        float: left;
+        text-transform: uppercase;
+        font-weight: bold;
+        border-right: 1px solid transparent;
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    table {
+        border: 0;
+        overflow-x: clip;
+    }
+
+    table thead {
+        display: none;
+    }
+
+    table tr {
+        margin-bottom: px;
+        display: block;
+        border-bottom: 2px solid #ddd;
+    }
+
+    table td {
+        display: block;
+        text-align: center;
+
+        border-right: 1px solid transparent;
+    }
+
+    table td:last-child {
+        border-bottom: 0;
+    }
+
+    table td:before {
+        content: attr(data-label);
+        float: left;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+
+    tbody,
+    td,
+    tfoot,
+    th,
+    thead,
+    tr {
+        border-color: inherit;
+        /* border-style: solid; */
+        border-width: 0;
+    }
+}

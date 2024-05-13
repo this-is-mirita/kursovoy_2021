@@ -1,0 +1,572 @@
+*,
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+hr {
+    border-left: 1px solid #dfdfdf;
+    height: 6rem !important;
+}
+
+@font-face {
+    font-family: 'Neo Sans Pro';
+    src: url(/fonts/fonts.css);
+}
+
+div {
+    font-family: 'Neo Sans Pro';
+    font-weight: bold;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.selector-for-some-widget {
+    box-sizing: content-box;
+}
+
+.sdas {
+    color: #8D8D8D;
+    text-decoration: none;
+}
+
+.adsa {
+    text-decoration: none;
+    color: #8D8D8D;
+}
+
+.hr {
+    border-left: 1px solid #EAEAEA;
+    display: flex;
+
+}
+
+.adsa1 {
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.main12 {
+    display: flex;
+}
+
+.newchapka {
+    display: flex;
+}
+
+.vkandinst {
+    display: flex;
+    align-items: center;
+    margin-left: 5rem;
+}
+
+.inn {
+    margin-left: 1rem;
+}
+
+.vnnn {
+    margin-left: 4rem;
+}
+
+
+.newlogo {
+    display: flex;
+    background-color: #131313;
+}
+
+.mainlg {
+    background: #131313;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.dual {
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+}
+
+.trial {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.mainimg {
+    display: flex;
+    align-items: center;
+}
+
+.mvprprp {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+
+.mbat {
+    display: flex;
+}
+
+.navbar-toggler {
+    display: flex;
+
+}
+
+.nedotxxt {
+    text-decoration: none;
+    font-size: 14px;
+    display: flex;
+    color: #EAEAEA;
+
+}
+
+.dsadasdsa {
+    width: 30%;
+}
+
+
+
+.col-icons {
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+}
+
+.navbar-nav {
+    display: flex;
+    gap: 4rem;
+}
+
+.first {
+    background: #131313;
+    display: flex;
+    flex-direction: column;
+}
+
+.reklama {
+    color: #EAEAEA;
+    text-decoration: none;
+}
+
+.voznikli {
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.voznikli1 {
+    color: yellow;
+}
+
+.bloktxt {
+    padding-top: 2rem;
+    margin-left: 6rem;
+}
+
+.navbar {
+    background: #0D0D0D;
+}
+
+/* что это значит узнать */
+.navbar-nav>li {
+    display: inline-block;
+    float: none;
+}
+
+.reklam {
+    text-decoration: none;
+    color: #EAEAEA;
+
+}
+
+
+
+.mainblock {
+    margin-top: 0px;
+    background: #000000;
+}
+
+
+.imenno {
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    display: flex;
+    color: #EAEAEA;
+    font-size: 48px;
+    flex-direction: column;
+    background: #000000;
+}
+
+.imenno1 {
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    display: flex;
+    color: #EAEAEA;
+    font-size: 48px;
+    flex-direction: row;
+    background: #000000;
+    justify-content: flex-start;
+    margin-top: 5rem;
+}
+
+.pochemymi {
+    background: #000000;
+    width: 100%;
+}
+
+.lelev {
+    background: #232323;
+    border: 1px;
+    border-radius: 5px;
+    padding: 1rem;
+}
+
+.nemainblock {
+    background: #000000;
+}
+
+.obnas {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.obnasmain {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 5rem;
+    row-gap: 2rem;
+    margin-top: 3rem;
+    justify-content: center;
+}
+
+.blockmain {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+    color: #EAEAEA;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    max-width: none;
+    flex-basis: 29%;
+}
+
+
+
+
+.nashi {
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    color: #EAEAEA;
+    background: #131313;
+    padding-left: 400px;
+
+}
+
+.mains {
+    display: flex;
+    background: #131313;
+    height: 700px;
+    padding-left: 16rem;
+}
+
+
+.maklienti {
+    position: absolute;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    display: flex;
+    align-items: center;
+    color: #EAEAEA;
+    font-size: 48px;
+    background: #1F1F1F;
+}
+
+.card {
+    display: flex;
+    background: #232323;
+    text-decoration: none;
+}
+
+.card-title {
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.card-text {
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.card-link {
+    text-decoration: none;
+}
+
+.card-footer:last-child {
+    border-radius: 0 0 var(--bs-card-inner-border-radius) var(--bs-card-inner-border-radius);
+    display: flex;
+    text-decoration: none;
+}
+
+.theekarti {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: rem;
+    row-gap: 3rem;
+    margin-top: 6rem;
+    justify-content: center;
+
+}
+
+
+
+.card-body {
+    background-color: #232323;
+    text-decoration: none;
+}
+
+.card-title {
+    color: #EAEAEA;
+}
+
+.card-text {
+    color: #EAEAEA;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+    justify-content: center;
+}
+
+
+
+
+
+
+
+.formmavvoda {
+    display: flex;
+    margin-top: 5rem;
+    background: #232323;
+    justify-content: center;
+
+}
+
+.conteiner-bg {
+    background: #232323;
+}
+
+.button1 {
+    border: none;
+    outline: none;
+    display: inline-block;
+    text-align: center;
+    cursor: pointer;
+    padding: 7px 65px;
+    border-radius: 5px;
+    background: #FFED00;
+    text-decoration: none;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #1F1F1F;
+    margin-top: 1.98rem;
+    width: 100%;
+}
+
+.contakt {
+    text-decoration: none;
+    color: #8D8D8D;
+}
+
+.zaddat {
+    size: 24px;
+    text-decoration: none;
+    color: #EAEAEA;
+}
+
+.osnova {
+    color: #EAEAEA;
+    align-items: center;
+}
+
+.povd {
+    width: 143%;
+    background: #000000;
+}
+
+.karta {
+    margin-top: 4rem;
+}
+
+.list-unstyled {
+    margin-left: 5rem;
+}
+
+.fomras {
+    background: #232323;
+}
+
+.futrrr {
+    margin-top: 5rem;
+    display: flex;
+}
+
+.textonpcit {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
+.mtxt {
+    display: flex;
+    text-decoration: none;
+}
+
+.mokni {
+    display: flex;
+}
+
+.dasdasd {
+    margin-left: 55%;
+    height: 400px;
+}
+
+.bslvl {
+    text-decoration: none;
+    color: #EAEAEA;
+    display: flex;
+    padding-top: 2%;
+
+}
+
+.bslvl1 {
+    margin-left: 1rem;
+    text-decoration: none;
+    color: #EAEAEA;
+    row-gap: 1rem;
+}
+
+.themed-grid-col {
+    background: #232323;
+    border: 0px;
+    border-radius: 5px;
+    padding: 1rem;
+    color: #EAEAEA;
+}
+
+.wgap {
+    /* gap: 30px; */
+    /* column-gap: 1px; */
+    display: flex;
+    margin: 0 auto;
+}
+
+.mktxty {
+    text-decoration: none;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    align-items: center;
+    justify-content: end;
+}
+
+.dasdasdsa {
+    margin-top: 3rem;
+}
+
+.carousel-item {
+    height: 330px;
+}
+
+.abs1 {
+    position: absolute;
+    left: 24%;
+    top: 24%;
+    text-decoration: none;
+    margin: 0;
+    text-align: justify;
+    text-decoration: none;
+}
+
+.asdqq1 {
+    text-decoration: none;
+    color: #EAEAEA;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    margin: 0;
+    position: absolute;
+}
+
+.asdqq {
+    text-decoration: none;
+    color: #EAEAEA;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    margin: 0;
+    position: absolute;
+
+}
+
+.abs2 {
+    position: absolute;
+    left: 24%;
+    top: 24%;
+    text-decoration: none;
+}
+
+.asdqq2 {
+    text-decoration: none;
+    color: #1F1F1F;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 6px;
+
+}
+
+.abs3 {
+    position: absolute;
+    left: 24%;
+    top: 24%;
+    text-decoration: none;
+}
+
+.asdqq3 {
+    text-decoration: none;
+    color: #1F1F1F;
+    font-family: 'Neo Sans Pro';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 6px;
+}
